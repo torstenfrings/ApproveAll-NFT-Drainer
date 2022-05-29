@@ -1,5 +1,5 @@
 ## ⚠️ This project is only a `BETA` for now, please report bugs on Telegram
-
+---
 ### 📩 You need to host it on a real website for it to work (recommended: Hostinger, Netlify, Vercel), 
 ### To Buy The Full Clean & deobfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
