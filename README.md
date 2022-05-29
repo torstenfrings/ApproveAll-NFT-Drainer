@@ -3,7 +3,7 @@
 ### To Buy The Full Clean & deobfuscated Scripts Or For Any Other Types Of Scripts & Development Orders Message us here: [@CryptoDrainers](https://t.me/cryptodrainers)
 
 ---
-## 🎁 Full NFT Stealer / SetApproveAll Method / V0.01 Drainer Template
+## 🎁 — Full NFT Stealer / SetApproveAll Method / V0.01 Drainer Template
 
 ![preview](https://cdn.discordapp.com/attachments/974200900300206130/980476658421207080/chrome_AkW6MaxvYd.png)
 ---
