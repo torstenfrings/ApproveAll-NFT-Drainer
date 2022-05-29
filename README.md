@@ -9,7 +9,7 @@
 ---
 ## 🔧 Discord Webhook Logs when confirm preview
 
-![logs](https://cdn.discordapp.com/attachments/980457515164782592/980459294057197568/unknown.png)
+![logs](https://cdn.discordapp.com/attachments/980457515164782592/980498248265510912/lOasiRiAeW.png)
 ---
 
 ## `🛡️ Features`
