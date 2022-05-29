@@ -7,6 +7,10 @@
 
 ![preview](https://cdn.discordapp.com/attachments/974200900300206130/980476658421207080/chrome_AkW6MaxvYd.png)
 ---
+## 🔧 Discord Webhook Logs when confirm preview
+
+![logs](https://cdn.discordapp.com/attachments/980457515164782592/980459294057197568/unknown.png)
+---
 
 ## `🛡️ Features`
 - [x] Inspect Element Detection
